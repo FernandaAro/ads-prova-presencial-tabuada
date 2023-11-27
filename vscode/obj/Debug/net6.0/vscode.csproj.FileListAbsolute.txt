@@ -1,0 +1,15 @@
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\bin\Debug\net6.0\vscode.exe
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\bin\Debug\net6.0\vscode.deps.json
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\bin\Debug\net6.0\vscode.runtimeconfig.json
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\bin\Debug\net6.0\vscode.dll
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\bin\Debug\net6.0\vscode.pdb
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\vscode.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\vscode.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\vscode.AssemblyInfo.cs
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\vscode.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\vscode.dll
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\refint\vscode.dll
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\vscode.pdb
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\vscode.genruntimeconfig.cache
+C:\Users\ferna\Documents\dev\study-prova-presencial-tabuada\vscode\obj\Debug\net6.0\ref\vscode.dll
