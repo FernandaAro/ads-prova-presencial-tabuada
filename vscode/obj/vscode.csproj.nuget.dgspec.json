@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\Documents\\dev\\study-prova-presencial-tabuada\\vscode\\vscode.csproj": {}
+    "C:\\Users\\ferna\\Documents\\dev\\ads-study-prova-presencial-tabuada\\vscode\\vscode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\Documents\\dev\\study-prova-presencial-tabuada\\vscode\\vscode.csproj": {
+    "C:\\Users\\ferna\\Documents\\dev\\ads-study-prova-presencial-tabuada\\vscode\\vscode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\Documents\\dev\\study-prova-presencial-tabuada\\vscode\\vscode.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\Documents\\dev\\ads-study-prova-presencial-tabuada\\vscode\\vscode.csproj",
         "projectName": "vscode",
-        "projectPath": "C:\\Users\\ferna\\Documents\\dev\\study-prova-presencial-tabuada\\vscode\\vscode.csproj",
+        "projectPath": "C:\\Users\\ferna\\Documents\\dev\\ads-study-prova-presencial-tabuada\\vscode\\vscode.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\Documents\\dev\\study-prova-presencial-tabuada\\vscode\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\Documents\\dev\\ads-study-prova-presencial-tabuada\\vscode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
